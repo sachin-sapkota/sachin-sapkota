@@ -66,7 +66,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sachin-sapkota/sachin-sapkota/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
@@ -141,5 +141,5 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 --->
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisirdhakal&theme=dark&locale=en" alt="sisirdhakal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-sapkota&theme=dark&locale=en" alt="sachinsapkota" />
 </p>
