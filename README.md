@@ -68,22 +68,17 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 ![Snake animation](https://github.com/sachin-sapkota/sachin-sapkota/blob/output/github-contribution-grid-snake.svg)
   
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
-
 
 
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-sapkota&show_icons=true&theme=dark&locale=en&layout=compact" alt="sachinsapkota" />
 </p>
-<!---
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sisirdhakal&show_icons=true&theme=dark&locale=en" alt="sisirdhakal" />
-</p>
---->
+
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-sapkota&theme=dark&locale=en" alt="sachinsapkota" />
 </p>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
