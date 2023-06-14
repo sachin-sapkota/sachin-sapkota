@@ -70,11 +70,11 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   
 
 
-<p align="left">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-sapkota&show_icons=true&theme=dark&locale=en&layout=compact" alt="sachinsapkota" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-sapkota&theme=dark&locale=en" alt="sachinsapkota" />
 </p>
 
