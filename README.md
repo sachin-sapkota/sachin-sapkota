@@ -7,7 +7,6 @@ current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
     "Bachelor's in Electronics and Communication",
   ]
 company: Digitize Nepal
@@ -25,8 +24,7 @@ technical_background:
   [
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - Internet Of Things"
   ]
   
 currently_learning: ["Docker, Kubernetes and React Native"]
