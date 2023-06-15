@@ -9,7 +9,7 @@ education:
     "Self-Taught Developer and Designer",
     "Bachelor's in Electronics and Communication",
   ]
-company: Digitize Nepal
+
 
 fields_of_interests:
   [
