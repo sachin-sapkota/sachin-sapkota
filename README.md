@@ -17,14 +17,13 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
     "DevOps",
   ]
 technical_background:
   [
     "DevOps Solutions Architect",
+    "Intern - Software Development Internship on Programiz",
     "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things"
   ]
   
 currently_learning: ["Docker, Kubernetes and React Native"]
